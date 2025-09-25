@@ -27,9 +27,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por te
 
 📧 **E-mail: heric.silva@outlook.com  
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)] https://www.instagram.com/_heriic/
+[! Instagram (https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)] https://www.instagram.com/_heriic/
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)] - EM BREVE
+[! LinkedIn (https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)] - EM BREVE
 ---
 
 ✨ Sempre aprendendo, sempre criando!
